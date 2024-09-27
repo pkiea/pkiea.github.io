@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pkiea.github.io/xnf/sitemap.xnf.gz
